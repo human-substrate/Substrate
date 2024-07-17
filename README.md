@@ -5,7 +5,6 @@
 # `Substrate`
 
 ![Static Badge](https://img.shields.io/badge/mission-visualize%20human%20progress-brightgreen)
-
 <br />
 ![GitHub top language](https://img.shields.io/github/languages/top/human-substrate/Problems)
 ![GitHub last commit](https://img.shields.io/github/last-commit/human-substrate/Problems)
