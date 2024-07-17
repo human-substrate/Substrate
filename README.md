@@ -1,6 +1,5 @@
-<img width="826" alt="substrate-logo" src="https://github.com/user-attachments/assets/064f6e10-126d-4ae7-acf1-2b7a0e363626">
-
 <div align="center">
+
 <img src="https://github.com/user-attachments/assets/338aec6e-cd7a-4d8b-935f-7d8a90a71b84" width="400" height="400"/>
 
 # `Substrate`
@@ -16,15 +15,8 @@
 <h4><code>Substrate</code> An Open-source Framework for Human Understanding, Meaning, and Progress.</h4>
 </p>
 
-[Introduction Video](#introduction-video-by-network-chuck) •
-[What and Why](#what-and-why) •
-[Philosophy](#philosophy) •
-[Quickstart](#quickstart) •
-[Structure](#structure) •
-[Examples](#examples) •
-[Custom Patterns](#custom-patterns) •
-[Helper Apps](#helper-apps) •
-[Examples](#examples) •
+[About](#about) •
+[How to Add Problems](#how-to-add-problems) •
 [Meta](#meta)
 
 </div>
