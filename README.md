@@ -34,7 +34,7 @@ To start, first go read the full blog post on the project, located here.
 
 ## How to Add Items
 
-You can add Problems to Substrate by submitting PRs to modify the various files that make up the Substrate objects, e.g.: `Problems`, `Solutions`, `Ideas`, etc.
+You can contribute to Substrate by submitting PRs to modify the various Substrate object files within each directory, e.g.: `Problems`, `Solutions`, `Ideas`, etc.
 
 We're working on a web-based interface for this as well to make it easier for non-coders to contribute.
 
