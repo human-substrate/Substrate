@@ -30,8 +30,9 @@
 
 ### Introduction video
 
-[![Substrate Intro Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+<div align="center">
+  <iframe width="100%" height="800" src="https://www.youtube.com/embed/ky7ejowc_qY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Blog post
 [Introducing Substrate](https://danielmiessler.com/p/introducing-substrate)
