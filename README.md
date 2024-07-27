@@ -23,7 +23,7 @@
 ## Navigation
 
 - [About](#about)
-- [How to Add Items](#how-to-add-items)
+- [How to Contribute](#how-to-contribute)
 - [Meta](#meta)
 
 ## About
@@ -32,7 +32,7 @@ To start, first go read the full blog post on the project, located here.
 
 [Introducing Substrate](https://danielmiessler.com/p/introducing-substrate)
 
-## How to Add Items
+## How to Contribute
 
 You can contribute to Substrate by submitting PRs to modify the various Substrate object files within each directory, e.g.: `Problems`, `Solutions`, `Ideas`, etc.
 
