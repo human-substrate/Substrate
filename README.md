@@ -28,16 +28,22 @@
 
 ## About
 
-### Introduction video
+## Introduction video
+
+Here's a video explaining the project and its structure.
 
 <div align="center">
 
-[![Watch the video](https://img.youtube.com/vi/ky7ejowc_qY/0.jpg)](https://www.youtube.com/watch?v=ky7ejowc_qY)
-
+<a href="https://www.youtube.com/watch?v=ky7ejowc_qY">
+  <img src="https://img.youtube.com/vi/ky7ejowc_qY/0.jpg" alt="Watch the Substrate Intro Video" style="width:100%;">
+</a>
 
 </div>
 
-### Blog post
+## Blog post
+
+And here's a full blog post about the project.
+
 [Introducing Substrate](https://danielmiessler.com/p/introducing-substrate)
 
 ## How to Contribute
