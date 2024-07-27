@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/338aec6e-cd7a-4d8b-935f-7d8a90a71b84" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/338aec6e-cd7a-4d8b-935f-7d8a90a71b84" width="800" height="800"/>
 
 # `Substrate`
 
