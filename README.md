@@ -15,7 +15,7 @@
 </p>
 
 [About](#about) •
-[How to Add Problems](#how-to-add-problems) •
+[How to Add Items](#how-to-add-problems) •
 [Meta](#meta)
 
 </div>
@@ -23,7 +23,7 @@
 ## Navigation
 
 - [About](#about)
-- [How to Add Problems](#how-to-add-problems)
+- [How to Add Items](#how-to-add-items)
 - [Meta](#meta)
 
 ## About
@@ -32,16 +32,16 @@ To start, first go read the full blog post on the project, located here.
 
 [Introducing Substrate](https://danielmiessler.com/p/introducing-substrate)
 
-## How to Add Problems
+## How to Add Items
 
-You can add Problems to Substrate by submitting PRs to this repo.
+You can add Problems to Substrate by submitting PRs to modify the various files that make up the Substrate objects, e.g.: `Problems`, `Solutions`, `Ideas`, etc.
 
 We're working on a web-based interface for this as well to make it easier for non-coders to contribute.
 
 <br />
 
 > [!NOTE]
-> July 16, 2024 — Please contribute PRs to this README as you see fit.
+> July 27, 2024 — We moved to a single-repo structure to make the project easier to manage.
 
 
 ## Meta
