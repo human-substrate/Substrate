@@ -31,7 +31,10 @@
 ### Introduction video
 
 <div align="center">
-  <iframe width="100%" height="800" src="https://www.youtube.com/embed/ky7ejowc_qY" frameborder="0" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/ky7ejowc_qY/0.jpg)](https://www.youtube.com/watch?v=ky7ejowc_qY)
+
+
 </div>
 
 ### Blog post
